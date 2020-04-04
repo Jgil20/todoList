@@ -1,0 +1,6 @@
+Finish Cs50 by Harvard	You work for ibm so you  have to learn everyday	10-04-2020
+Finish MySQL,	Learn about databases and how to implement them with SAP 	17-04-2020
+Learn SAP	This is going to be your bread and butter 	10-04-2020
+Learn Python	Get ready for Machine learning and A.I now that your learning about data	15-08-2020
+Take Math Classes	Take linear algebra and anything else that will make you a better programmer	31-12-2020
+todo	a new todo item	21-04-2020
